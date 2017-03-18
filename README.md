@@ -4,11 +4,11 @@ Uma lista aberta de recursos (cursos, livros, guias, artigos, etc.) da área de 
 
 ## Conteúdos
 
-1. [Cursos](#Cursos)
-2. [Palestras](#Palestras)
-3. [Vídeos](#Vídeos)
-4. [Livros](#Livros)
-5. [Bibliotecas e Plataformas](#Bibliotecas e Plataformas)
+1. [Cursos](#cursos)
+2. [Palestras](#palestras)
+3. [Vídeos](#v&iacute;deos)
+4. [Livros](#livros)
+5. [Bibliotecas e Plataformas](#bibliotecas-e-plataformas)
 
 
 ## Cursos
